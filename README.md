@@ -1,4 +1,8 @@
-## Hi there 👋
+ בס"ד 
+# שלום לכולם👋:
+# שמי הוא עוז עזרא נאבי הכהן🧑‍💻
+אני לומד בדיקת תוכנה ואוטומצייה במכללה לאוטומצייה:[המכללה לאוטומצייה](https://automation.co.il/))
+ 
 
 <!--
 **OzEzraCohen/OzEzraCohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
