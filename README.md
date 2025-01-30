@@ -5,6 +5,7 @@
 סיימתי את החלק של בדיקת התוכנה [וזו התעודה](https://github.com/OzEzraCohen/index.html/blob/main/%D7%AA%D7%A2%D7%95%D7%93%D7%AA%20%D7%A1%D7%99%D7%95%D7%9D%20%D7%A7%D7%95%D7%A8%D7%A1%20%D7%91%D7%95%D7%93%D7%A7%20%D7%AA%D7%95%D7%9B%D7%A0%D7%94.pdf)
 וכעת אני בחלק השני של הקורס שהוא בניית אוטומצייה.
 אני כעת בשלב חיפוש עבודה בתחום ואשמח אם תיכנסו לקישור של קורות החיים שלי:[קו"ח](https://github.com/OzEzraCohen/CV/blob/main/Resume.pdf)
+
  לקורות חיים בשפה האנגלית For CV in English:[Resume](https://github.com/OzEzraCohen/CV/blob/main/Resume%20In%20English.pdf)
  
 
